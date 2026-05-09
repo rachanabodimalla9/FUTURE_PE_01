@@ -6,7 +6,7 @@
 
 Click on this link to view the webpage.
 
-View your app in AI Studio: http://192.168.0.101:3001/vet-ai
+View your app in AI Studio: http://192.168.0.101:3001/
 
 ## Run Locally
 
