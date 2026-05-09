@@ -1,0 +1,6 @@
+{
+  "name": "K9 Paws Pet Clinic",
+  "description": "Providing warm, professional, and compassionate care for your furry friends. K9 Paws is your local trusted veterinary clinic.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
